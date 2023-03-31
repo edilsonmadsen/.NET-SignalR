@@ -1,0 +1,42 @@
+﻿@page
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            Usuário: <input type="text" id="userInput" />
+            <br />
+        </div>
+     
+        <div class="col-6">&nbsp;</div>
+        <br>
+    </div>
+    <div class="row" id="votacao">Votação: Qual é o seu esporte favorito?&nbsp;</div>
+    <br />
+    <div class="row">
+        <div class="col-12">
+
+            <input type="radio" name="myChannel" id="futebol" value="Futebol" />
+            <label for="futebol">Futebol</label>
+            <br /><span id="futebolBlock"></span><br />
+            <input type="radio" name="myChannel" id="basquete" value="Basquete" />
+            <label for="basquete">Basquete</label>
+            <br /><span id="basqueteBlock"></span><br />
+            <input type="radio" name="myChannel" id="volei" value="Volei" />
+            <label for="volei">Vôlei</label>
+            <br /><span id="voleiBlock"></span><br />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <input type="button" id="sendButton" value="Vote Aqui" />
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/poll.js"></script>
