@@ -37,17 +37,9 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 Instalar no NuGet Package Manager:
 
 ```
-Microsoft.EntityFrameworkCore
+Microsoft.SignalR
 ```
 
-```
-Microsoft.EntityFrameworkCore.Design
-```
-```
-Microsoft.EntityFrameworkCore.SqlServer
-```
-```
-Microsoft.EntityFrameworkCore.Tools
 ```
 
 Executar o projeto
