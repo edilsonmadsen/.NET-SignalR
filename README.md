@@ -7,22 +7,12 @@ Projeto SignalR
 </div>
 <br>
 
-Cadastro de Cliente com as seguintes tecnologias:
-
-* Aplicação Web com Asp.net MVC(HTML,CSS,Java Script, JQuery)
-
-* Utilizado .NET e Linguagem C#
-
-* Framework de Persistência: Entity Framework
-
-* Banco de Dados : Microsoft SQL SERVER
-
-* Criação API Rest para o Cliente com as funcionalidades (inclusão, atualização e exclusão)
+#TEXTO AQUI
 
 
 ## ⚙️ Demonstração do projeto em execução
 
-https://user-images.githubusercontent.com/92545393/218764350-c32aceef-f25b-4f20-a290-fd1f4cf716be.mp4
+https://user-images.githubusercontent.com/92545393/229400460-53ffa8c4-cb97-41af-8231-ea666b5d6c0d.mp4
 
 
 ## 🚀 Começando - Start
@@ -37,7 +27,8 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 Instalar no NuGet Package Manager:
 
 ```
-Microsoft.SignalR
+Microsoft.AspNetCore.SignalR.Core
+
 ```
 
 ```
@@ -50,8 +41,7 @@ Executar o projeto
 * Web com Asp.net MVC
 * .NET
 * C#
-* SqlServer
-* Entity Framework
+* SignalR
 
 
 ## ✒️ Autor
