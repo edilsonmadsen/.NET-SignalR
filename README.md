@@ -7,7 +7,8 @@ Projeto SignalR
 </div>
 <br>
 
-#TEXTO AQUI
+O SignalR é uma biblioteca ASP.NET que nasceu em 2012 com a versão 1.0.0-alpha1, que facilita a implementação de aplicações web real-time, ele combina uma biblioteca ASP.NET Server Side, e uma biblioteca JavaScript client, a qual ajuda a manter a comunicação server-client.
+Fiz um exemplo na qual é possível acompanhar uma votação em tempo real.
 
 ## ⚙️ Demonstração do projeto em execução
 
