@@ -9,7 +9,6 @@ Projeto SignalR
 
 #TEXTO AQUI
 
-
 ## ⚙️ Demonstração do projeto em execução
 
 https://user-images.githubusercontent.com/92545393/229400460-53ffa8c4-cb97-41af-8231-ea666b5d6c0d.mp4
