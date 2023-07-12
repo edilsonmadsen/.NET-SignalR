@@ -1,8 +1,6 @@
 # .NET-SignalR
 
 Projeto SignalR
-
-
 <br>
 
 <div align="center">
@@ -51,6 +49,7 @@ Executar o projeto
 
 
 * Web com Asp.net MVC
+
 * .NET CORE
 * C#
 * SignalR
