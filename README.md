@@ -48,7 +48,6 @@ Executar o projeto
 
 ## 🛠️ Construído com as seguintes linguagens e frameworks:
 
-
 * Web com Asp.net MVC
 
 * .NET CORE
