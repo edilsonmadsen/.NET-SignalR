@@ -1,7 +1,6 @@
 # .NET-SignalR
 
 Projeto SignalR
-
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/92545393/229399681-883ebc76-5c23-49fa-ae80-173e88e02bd7.png" width="300px"/>
