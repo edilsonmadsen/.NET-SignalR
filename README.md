@@ -43,7 +43,6 @@ Executar o projeto
 * C#
 * SignalR
 
-
 ## ✒️ Autor
 
 * **Edilson Madsen**
