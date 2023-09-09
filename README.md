@@ -13,6 +13,7 @@ O SignalR é uma biblioteca ASP.NET que nasceu em 2012 com a versão 1.0.0-alpha
 
 Criado um sistema simples de votação online em que o cliente irá receber em tempo real a atualização de votos.
 
+
 ## ⚙️ Demonstração do projeto em execução
 
 
